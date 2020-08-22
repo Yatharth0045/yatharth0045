@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yatharth Sharma</h1>
-<h3 align="center">Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability of achieving complex tasks by following the best DevOps practices.</h3>
+<h3 align="center">Working as a DevOps Engineer</h3>
 
 - 🏢 I’m currently working in [Knoldus](https://github.com/KnoldusLabs)
 
