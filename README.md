@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/yatharth7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yatharth7" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/yatharth7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yatharth7" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yatharth7" height="30" width="30" /></a>
 <a href="https://fb.com/yatharth.sharma.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yatharth.sharma.31" height="30" width="30" /></a>
 <a href="https://instagram.com/yatharth_sharma_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yatharth_sharma_7" height="30" width="30" /></a>
 </p>
