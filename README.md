@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yatharth Sharma</h1>
 <h3 align="center">Working as a DevOps Engineer</h3>
 
+![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
+
 - 🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home)
 
 - 🌱 I’m currently learning **Amazon Web Service** and looking forward to be a **Certified Cloud Engineer**
