@@ -3,17 +3,17 @@
 
 - 🏢 I’m currently working in [Knoldus](https://github.com/KnoldusLabs)
 
-- 🌱 I’m currently learning **Amazon Web Service and looking forward to be a certified Cloud Engineer**
+- 🌱 I’m currently learning **Amazon Web Service** and looking forward to be a **Certified Cloud Engineer**
 
 - 💡 Word that describes me **DevOps Wizard**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Yatharth0045?tab=repositories)
 
-- 📝 I regulary write articles on [Wordpress](Wordpress)
+- 📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
 
 - 💬 Ask me about **DevOps Practices**
 
-- 📫 How to reach me **yatharth0045@gmail.com**
+- 📫 How to reach me at **yatharth0045@gmail.com**
 
 - ⚡ Fun fact **We guys automate stuff**
 
