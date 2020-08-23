@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yatharth Sharma🌀</h1>
+<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
