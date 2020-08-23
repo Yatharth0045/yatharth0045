@@ -5,15 +5,19 @@
 <a href="https://linkedin.com/in/yatharth7" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
+  &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
 </a>
+  &nbsp;&nbsp;
 <a href="https://fb.com/yatharth.sharma.31" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
 </a>
+  &nbsp;&nbsp;
 <a href="https://instagram.com/yatharth_sharma_7" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
 </a>
+  &nbsp;&nbsp;
 <a href="https://yatharthsharma.home.blog/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
 </a></p>
