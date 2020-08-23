@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀</h1>
+<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀 from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/yatharth7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+</a>
+<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
+</a>
+<a href="https://fb.com/yatharth.sharma.31" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
+</a>
+<a href="https://instagram.com/yatharth_sharma_7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
+</a>
+<a href="https://yatharthsharma.home.blog/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
+</a></p>
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-##### 🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Software Consultant**
+🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Software Consultant**
 
-##### 🌱 I’m currently learning **Amazon Web Service** and looking forward to be a **Certified Cloud Engineer**
+🌱 I’m currently working on **Amazon Web Service** and looking forward to be a **Certified Cloud Engineer**
 
-##### 💡 Word that describes me **DevOps Wizard**
+💡 Hashtag that describes me **`#DevOpsWizard`**
 
-##### 📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
+📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
 
-##### 💬 Ask me about **DevOps Tools and Practices**
+💬 Ask me about **DevOps Tools and Practices**
 
-##### 📫 You can reach me at **yatharth0045@gmail.com**
+📫 You can reach me at **yatharth0045@gmail.com**
 
-##### ⚡ Fun fact **We guys automate stuff**
+⚡ Fun fact **We guys automate stuff**
 
-##### 👨‍💻 Some of the projects I have worked upon
+##### 👨‍💻 Some of the projects I have worked recently
 
 - 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
 
@@ -63,12 +80,3 @@
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/yatharth7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yatharth7" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yatharth7" height="30" width="30" /></a>
-<a href="https://fb.com/yatharth.sharma.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yatharth.sharma.31" height="30" width="30" /></a>
-<a href="https://instagram.com/yatharth_sharma_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yatharth_sharma_7" height="30" width="30" /></a>
-<a href="https://yatharthsharma.home.blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="yatharth_sharma_blogs" height="30" width="30" /></a>
-
-</p>
