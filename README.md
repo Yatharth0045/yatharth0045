@@ -24,9 +24,9 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Software Consultant**
+🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **DevOps Engineer**
 
-🌱 I’m currently working on **Amazon Web Service** and looking forward to be a **Certified Cloud Engineer**
+🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
@@ -39,6 +39,8 @@
 ⚡ Fun fact **We guys automate stuff**
 
 ##### 👨‍💻 Some of the projects I have worked recently
+
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
 
 - 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
 
