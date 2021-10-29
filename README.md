@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **DevOps Engineer**
+🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Sr. DevOps Engineer**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
