@@ -24,13 +24,13 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Sr. DevOps Engineer**
+🏢 I’m currently working in [Leegality](https://www.leegality.com/) as **Sr. DevOps Engineer**
 
-🌱 I’m currently working on **Setting up infra using Terraform over AWS**
+🌱 I’m currently working on **Standarizing Jenkins Pipelines using DSL**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
-📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
+📝 I regulary write articles on [Hashnode](https://lets-devops.hashnode.dev/)
 
 💬 Ask me about **DevOps Tools and Practices**
 
@@ -39,6 +39,8 @@
 ⚡ Fun fact **We guys automate stuff**
 
 ##### 👨‍💻 Some of the projects I have worked recently
+
+- 📦 Trying out GoLang
 
 - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
 
@@ -53,6 +55,8 @@
 - 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)   
 
 ##### 🧾 Certifications I have Accomplished
+
+- 🎖 Certified Kubernetes Adminitstrator (CKA) - [CKA]()
 
 - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
 
