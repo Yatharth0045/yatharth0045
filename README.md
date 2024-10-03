@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Leegality](https://www.leegality.com/) as **Sr. DevOps Engineer**
+🏢 I’m currently working in [AuditorsDesk](https://auditorsdesk.com/) as **Sr. DevOps Engineer**
 
 🌱 I’m currently working on **Standarizing Jenkins Pipelines using DSL**
 
