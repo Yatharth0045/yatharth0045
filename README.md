@@ -24,9 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [AuditorsDesk](https://auditorsdesk.com/) as **Sr. Platform Engineer**
-
-🌱 I’m currently working on **Standarizing Jenkins Pipelines using DSL**
+🏢 I’m currently working in [MatherEconomics](https://www.mathereconomics.com/) as **DevOps Engineer**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
